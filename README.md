@@ -17,7 +17,7 @@ The Second Workshop on New Frontiers in Adversarial Machine Learning
   > `batch_size` - Batch Size for Train Set -`default = 128` 
 
 	
-+ `Adaptive Smoothness-weighted Adversarial Training`
++ Adaptive Smoothness-weighted Adversarial Training
   > `python train.py -model 9`
 
 ## Citation
