@@ -13,11 +13,11 @@ The Second Workshop on New Frontiers in Adversarial Machine Learning
 
 + `train.py` - Train the Adversarially Robust Models
   > `gpu_id`  - Id of GPU to be used  - `default = 0`  
-  > `model`   - Type of Adversarial Training:  - `default = 9`   9: ADT
+  > `model`   - Type of Adversarial Training:  - `default = 9`
   > `batch_size` - Batch Size for Train Set -`default = 128` 
 
 	
-**Adaptive Smoothness-weighted Adversarial Training:**  
++`Adaptive Smoothness-weighted Adversarial Training'
 `python train.py -model 9`
 
 ## Citation
