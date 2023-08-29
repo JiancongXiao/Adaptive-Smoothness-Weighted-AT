@@ -20,7 +20,8 @@ The Second Workshop on New Frontiers in Adversarial Machine Learning
 + Adaptive Smoothness-weighted Adversarial Training
   > `python train.py -model 9`
 
-+ The code is adopted from [locuslab](https://github.com/locuslab/robust_union).
++ The code is adopted from [Locus Lab](https://github.com/locuslab/robust_union).
+  
 ## Citation
 ```
 @article{xiao2022adaptive,
